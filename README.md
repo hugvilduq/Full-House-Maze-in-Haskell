@@ -2,7 +2,7 @@
 
 Welcome to the Full House Puzzle Game! This is a fun and challenging puzzle implemented in Haskell, a purely functional programming language. The goal of the game is to navigate a grid where the player must visit every cell exactly once.
 
-# About Haskell
+# About Haskell 
 Haskell is known for its strong static typing, immutability, and emphasis on pure functions, which makes it an ideal language for building mathematical or logic-based games like Full House. If you're new to Haskell, this project is a great way to explore the language's unique approach to problem-solving through recursion, higher-order functions, and monads.
 
 Haskell's declarative style allows us to describe the game in a natural, functional way, breaking down the puzzle-solving mechanics into clear and reusable components.
