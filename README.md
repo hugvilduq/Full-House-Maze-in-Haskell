@@ -1,5 +1,5 @@
 # Full House Maze in Haskell
-
+ 
 Welcome to the Full House Puzzle Game! This is a fun and challenging puzzle implemented in Haskell, a purely functional programming language. The goal of the game is to navigate a grid where the player must visit every cell exactly once.
 
 # About Haskell 
