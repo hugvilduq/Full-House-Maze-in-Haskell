@@ -8,7 +8,7 @@ Haskell is known for its strong static typing, immutability, and emphasis on pur
 Haskell's declarative style allows us to describe the game in a natural, functional way, breaking down the puzzle-solving mechanics into clear and reusable components.
 
 # How to Run
-To create the executable, go to the src folder with the 3 code files, open a terminal
+To create the executable, go to the src folder with the 3 code files, open a terminal 
 and run the following command:
  
 ghc --make FullHousePuzzle.hs
